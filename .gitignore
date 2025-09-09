@@ -1,0 +1,7 @@
+.obsidian/workspace*
+.obsidian/workspaces.json
+.obsidian/plugins/*/cache/
+.obsidian/plugins/omnisearch/.index/
+.trash/
+.DS_Store
+desktop.ini
